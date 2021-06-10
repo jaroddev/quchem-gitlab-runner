@@ -23,6 +23,7 @@
     gitlab-runner register 
     --non-interactive
     --url {{ external_url }} 
+    --clone-url {{ external_url }}
     --registration-token {{ token }}
     --description "docker-runner"
     --executor "docker"
