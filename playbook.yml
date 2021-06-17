@@ -10,7 +10,7 @@
     user: gitlab-runner
 
     # If the installation fail chances are that you did not override this variable
-    token: "P8A8uhCFgKzMPjfRQ8mp"
+    token: "7fPCgxGnuxHqDNszrCX4"
 
     docker_image: "alpine:latest"
 
