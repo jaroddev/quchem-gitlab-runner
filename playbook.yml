@@ -5,7 +5,7 @@
   vars:
     ansible_python_interpreter: /usr/bin/python3
 
-    external_url: "http://192.168.0.104:8088"
+    external_url: "http://192.168.0.104"
 
     user: gitlab-runner
 
